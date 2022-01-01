@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🙋‍♀️ A short introduction
+
+We are Caribbean Online Judge organization. An organization about Programming Online Competitions.
+
 <!--
 
 **Here are some ideas to get you started:**
